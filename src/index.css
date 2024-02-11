@@ -1,0 +1,17 @@
+:root {
+  height: 100%;
+}
+
+#root {
+  height: inherit;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  height: inherit;
+
+  background-color: #151517;
+  color: #BBBBBB;
+  font-family: 'DM Sans';
+}
